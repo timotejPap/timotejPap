@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timotej Pap
 - 👀 I’m interested in Manual and Automatic testing
-- 🌱 I’m currently learning Robot Framework
+- 🌱 I’m currently learning mostly Playwright and Robot Framework
 - 📫 How to reach me https://www.linkedin.com/in/timotejpap1991/
 
 <!---
